@@ -10,6 +10,7 @@
           <div class="col-md-11 ftco-animate text-center">
         	<p>YOUR SECOND NAME</p>  
           	<h1 class="mb-4">너의 두번째 이름</h1>
+          	<h1></h1>
           	<p>#사지말고_입양하세요 #Do Not Buy, Please Adopt</p>
             <p><a href="#" class="btn btn-primary mr-md-4 py-3 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
           </div>
